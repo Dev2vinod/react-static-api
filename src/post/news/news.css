@@ -1,0 +1,26 @@
+*{
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+}
+
+ .form >.input{
+      width: 500px;
+      height: 50px;
+
+ }
+
+ .form >button{
+      padding: 12px;
+      margin: 10px;
+      background-color:greenyellow;
+      color: gray;
+ }
+
+ .post{
+     border: 1px solid snow;
+     border-radius: 30px;
+     background-color: rgba(207, 204, 201, 0.514);
+     margin: 20px;
+     padding: 20px;
+ }
