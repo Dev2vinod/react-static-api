@@ -5,13 +5,15 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import Take from "./post/news/news";
 import Home from "./api.jsx";
+import Butn from "./ghous/ghous";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     {/* <App /> */}
     {/* <Take /> */}
-    <Home />
+    {/* <Home /> */}
+    <Butn />
   </React.StrictMode>
 );
 
